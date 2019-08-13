@@ -1,9 +1,9 @@
-Mi poema
+Mi poema y los ponies
 
-Este poema
-Es muy lindo
+Este poema habla de los ponies
+Son muy lindos
 Aunque en realidad
-Ni me lo imagino
+Nunca he tenido uno
 Escribo esto
 Sin pensar
 
@@ -16,3 +16,4 @@ Oh diablos
 Soy terrible
 Aguas 
 Con el vaso
+Los ponies
